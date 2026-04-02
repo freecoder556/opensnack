@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI Todo",
+  "description": "An AI-powered todo application with a liquid glass iOS aesthetic, featuring smart task parsing and a visual calendar timeline.",
+  "requestFramePermissions": []
+}
